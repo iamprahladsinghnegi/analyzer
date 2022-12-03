@@ -1,0 +1,35 @@
+.input-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.input-area {
+  background: #6d9886;
+  height: 15vh;
+}
+
+.separator {
+  height: 2vh;
+  background: #f2e7d5;
+}
+
+.result-area {
+  background: #f7f7f7;
+  height: calc(85vh - 24px - 2vh);
+  overflow: auto;
+  padding: 12px;
+}
+
+.clear-btn {
+  position: absolute;
+  right: 8px;
+  top: 8px;
+}
+
+.heading {
+  color: white;
+  margin: 0;
+  text-align: center;
+  padding-top: 8px;
+}
