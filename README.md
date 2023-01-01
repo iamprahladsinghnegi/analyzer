@@ -1,4 +1,4 @@
-# Analyzer - Excel demo app
+# Analyzer - [Excel demo app](https://excel-analyzer.netlify.app/)
 
 ## Installation & Local setup
 
